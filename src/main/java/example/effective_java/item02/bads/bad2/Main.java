@@ -1,4 +1,4 @@
-package example.effective_java._02_item.bads.bad2;
+package example.effective_java.item02.bads.bad2;
 
 public class Main {
     public static void main(String[] args) {

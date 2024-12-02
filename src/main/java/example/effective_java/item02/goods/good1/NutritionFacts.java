@@ -1,4 +1,4 @@
-package example.effective_java._02_item.goods.good1;
+package example.effective_java.item02.goods.good1;
 
 // 3. 빌더 패턴
 // 필수 매개변수만으로 Builder 객체를 생성하고, 선택적인 값들은 메서드를 통해 설정한다. (메서드 체이닝)

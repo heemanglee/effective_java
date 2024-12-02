@@ -1,4 +1,4 @@
-package example.effective_java._02_item.bads.bad2;
+package example.effective_java.item02.bads.bad2;
 
 // 2. 자바빈즈 패턴
 // setter 메서드를 이용하여 인스턴스를 생성한다.

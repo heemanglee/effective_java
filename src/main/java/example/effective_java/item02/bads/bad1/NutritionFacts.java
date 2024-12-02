@@ -1,4 +1,4 @@
-package example.effective_java._02_item.bads.bad1;
+package example.effective_java.item02.bads.bad1;
 
 // 1. 점층적 생성재 패턴
 // 인스턴스를 생성하기 위해서, 원하는 매개변수를 모두 포함한 생성자를 호출하면 된다.

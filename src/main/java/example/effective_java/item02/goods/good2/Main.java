@@ -1,4 +1,4 @@
-package example.effective_java._02_item.goods.good2;
+package example.effective_java.item02.goods.good2;
 
 public class Main {
     public static void main(String[] args) {
